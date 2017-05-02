@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Template>
+    <Select>True</Select>
+    <Name>Стандартный</Name>
+    <Message>Уважаемый(я). Вам назначено собеседонвание на   числа. Rostretail</Message>
+  </Template>
+  <Template>
+    <Select>False</Select>
+    <Name>Test</Name>
+    <Message>Testovoe soobshenie</Message>
+  </Template>
+</NewDataSet>
